@@ -4,7 +4,7 @@
 
 Olá Saiyajin 👊💥
 
-Seja bem-vindo ao Projeto 01 😁✌️
+Esse é o Projeto 01 😁✌️
 
 Criei um relatório de vendas com base nas vendas e devoluções da loja 😎📈
 
