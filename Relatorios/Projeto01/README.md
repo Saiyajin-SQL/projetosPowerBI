@@ -1,14 +1,21 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://th.bing.com/th/id/R.85223f50edae3edc06c3c4ac500baf66?rik=ssCjf3qKVUl8Yg&riu=http%3a%2f%2ffc00.deviantart.net%2ffs70%2ff%2f2014%2f079%2f2%2ff%2fvegeta_in_the_rain___animated_by_carapau_d4u7m_by_blackshadowx306-d7awx8y.gif&ehk=SimwDDZtQ3MPd9XFCop1iDUUKiueyoFo47ZjzT4IUDg%3d&risl=&pid=ImgRaw&r=0" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://media1.tenor.com/images/501aeaae8758b0f6c5c7a17d9533ecae/tenor.gif?itemid=14101790" />
 
 Olá Saiyajin 👊💥
 
-Seja bem-vindo ao portifólio Power BI 😁✌️
+Seja bem-vindo ao Projeto 01 😁✌️
 
-Aqui irei armazenar todos meus projetos no Power BI 😎📈
+Criei um relatório de vendas com base nas vendas e devoluções da loja 😎📈
 
-Treinando bastante DAX e criando relatórios 🎯📄
+📄 Conteúdo do relatório 📄
+
+📦 Quantidade vendida por produto <br>
+📅 Faturamento Mensal <br>
+📥 Percentual de devolução por produto <br>
+🗺️ Faturamento por loja <br>
+💸 Faturamento Total <br>
+🛍️ Produto mais vendido <br>
 
 
 
