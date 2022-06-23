@@ -1,24 +1,23 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://media1.tenor.com/images/501aeaae8758b0f6c5c7a17d9533ecae/tenor.gif?itemid=14101790" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://pa1.narvii.com/5953/e1e074d815961702a413a801faabb2f145677bb3_hq.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 01 😁✌️
+Esse é o Projeto 02 😁✌️
 
-Criei um relatório de vendas com base nas vendas e devoluções da loja 😎📈
+Criei um relatório de vendas com base no faturamento das vendas 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📦 Quantidade vendida por produto <br>
-📅 Faturamento Mensal <br>
-📥 Percentual de devolução por produto <br>
-🗺️ Faturamento por loja <br>
+📅 Mês com maior faturamento <br>
+📥 Faturamento por marca <br>
+🗺️ Faturamento por categoria de produto <br>
 💸 Faturamento Total <br>
-🛍️ Produto mais vendido <br>
+💰 Lucro Total <br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiNmQ1YzAxODYtOTk0OC00ZDk4LWExNDQtN2QwODBjODljOWUxIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiN2EyMDM0YTQtYzllOC00NDEyLTgzNWItYWJhNjEzNTg5ZmVhIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
 
 ##
 
