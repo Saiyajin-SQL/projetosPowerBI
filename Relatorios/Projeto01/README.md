@@ -4,7 +4,7 @@
 
 Olá Saiyajin 👊💥
 
-Seja bem-vindo ao Projeto 01 😁✌️
+Esse é o Projeto 01 😁✌️
 
 Criei um relatório de vendas com base nas vendas e devoluções da loja 😎📈
 
@@ -16,8 +16,9 @@ Criei um relatório de vendas com base nas vendas e devoluções da loja 😎�
 🗺️ Faturamento por loja <br>
 💸 Faturamento Total <br>
 🛍️ Produto mais vendido <br>
-
-
+<br><br><br>
+🌐 Visualização online : 
+https://app.powerbi.com/view?r=eyJrIjoiNmQ1YzAxODYtOTk0OC00ZDk4LWExNDQtN2QwODBjODljOWUxIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
 
 ##
 
