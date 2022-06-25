@@ -1,23 +1,25 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://pa1.narvii.com/5953/e1e074d815961702a413a801faabb2f145677bb3_hq.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://4.bp.blogspot.com/-lUJtZOtTKy8/WHTRPUV0qWI/AAAAAAAAYa4/l5RDgDlfjZwzzBGTSat9WcffVuaifOvWQCLcB/s1600/Gifs%2Baniamdos%2BDragon%2BBall%2BSuper%2B7.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 02 😁✌️
+Esse é o Projeto 03 😁✌️
 
-Criei um relatório de vendas com base no faturamento das vendas 😎📈
+Criei um relatório de vendas com base nas devoluções da loja 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📅 Mês com maior faturamento <br>
-📥 Faturamento por marca <br>
-🗺️ Faturamento por categoria de produto <br>
-💸 Faturamento Total <br>
-💰 Lucro Total <br>
+📅 Mês com mais devoluções <br>
+📅 Devolução mensal <br>
+📅 Devolução trimestral <br>
+📥 Quantidade total de produtos devolvidos <br>
+📦 Produto mais devolvido <br>
+📈 Marca mais devolvida <br>
+📊 Devolução por categoria <br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiN2EyMDM0YTQtYzllOC00NDEyLTgzNWItYWJhNjEzNTg5ZmVhIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiZjdhMDZlYmUtMzRmYi00OWFmLWFkZDgtNjhmNzczYzBlYjk1IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection2b9c40d70e29e92d3108
 
 ##
 
