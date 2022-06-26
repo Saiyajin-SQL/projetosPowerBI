@@ -1,25 +1,26 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://4.bp.blogspot.com/-lUJtZOtTKy8/WHTRPUV0qWI/AAAAAAAAYa4/l5RDgDlfjZwzzBGTSat9WcffVuaifOvWQCLcB/s1600/Gifs%2Baniamdos%2BDragon%2BBall%2BSuper%2B7.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://th.bing.com/th/id/R.fd91b1715061efc79dbb6678aea0f9b9?rik=LERb%2bFekV8GoEg&pid=ImgRaw&r=0" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 03 😁✌️
+Esse é o Projeto 05 😁✌️
 
-Criei um relatório de vendas com base nas devoluções da loja 😎📈
+Criei um relatório de vendas com base no faturamento e na quantidade vendida 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📅 Mês com mais devoluções <br>
-📅 Devolução mensal <br>
-📅 Devolução trimestral <br>
-📥 Quantidade total de produtos devolvidos <br>
-📦 Produto mais devolvido <br>
-📈 Marca mais devolvida <br>
-📊 Devolução por categoria <br>
+📅 Faturamento Total Mensal <br>
+🛍️ Quantidade vendida por categoria <br>
+💸 Faturamento por marca<br>
+🏦 Faturamento por loja <br>
+💰 Loja com maior faturamento <br>
+🤑 Faturamento Total <br>
+📦 Quantidade vendida <br>
+🚀 Vendas Totais <br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiZjdhMDZlYmUtMzRmYi00OWFmLWFkZDgtNjhmNzczYzBlYjk1IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection2b9c40d70e29e92d3108
+https://app.powerbi.com/view?r=eyJrIjoiYTBhMmE5MDQtMGZiMC00ZTAyLThiYzEtODJiOTk4ZGQ2YTYxIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
 
 ##
 
