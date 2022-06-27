@@ -1,25 +1,25 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://4.bp.blogspot.com/-lUJtZOtTKy8/WHTRPUV0qWI/AAAAAAAAYa4/l5RDgDlfjZwzzBGTSat9WcffVuaifOvWQCLcB/s1600/Gifs%2Baniamdos%2BDragon%2BBall%2BSuper%2B7.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://i.pinimg.com/originals/72/00/cc/7200cc3eed41c30a04cb5d0f13055421.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 03 😁✌️
+Esse é o Projeto 07 😁✌️
 
-Criei um relatório de vendas com base nas devoluções da loja 😎📈
+Criei um relatório de funcionários de uma empresa 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📅 Mês com mais devoluções <br>
-📅 Devolução mensal <br>
-📅 Devolução trimestral <br>
-📥 Quantidade total de produtos devolvidos <br>
-📦 Produto mais devolvido <br>
-📈 Marca mais devolvida <br>
-📊 Devolução por categoria <br>
+📅 Contratação de funcionários Mensal <br>
+🧙‍♂️ Total de funcionários por faixa etária <br>
+👨‍💼 Contagem de funcionários por Setor <br>
+💵 Média Salarial <br>
+💸 Média Salarial por cargo <br>
+👩‍💼 Total de funcionários <br>
+🤑 Cargo com maior salário<br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiZjdhMDZlYmUtMzRmYi00OWFmLWFkZDgtNjhmNzczYzBlYjk1IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection2b9c40d70e29e92d3108
+https://app.powerbi.com/view?r=eyJrIjoiNTdiZGE1NmYtZjIzNS00ZjA5LWE3MzQtZTE1ZTNhMzJiY2MwIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
 
 ##
 
