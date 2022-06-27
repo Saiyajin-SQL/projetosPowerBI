@@ -1,25 +1,27 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://4.bp.blogspot.com/-lUJtZOtTKy8/WHTRPUV0qWI/AAAAAAAAYa4/l5RDgDlfjZwzzBGTSat9WcffVuaifOvWQCLcB/s1600/Gifs%2Baniamdos%2BDragon%2BBall%2BSuper%2B7.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://th.bing.com/th/id/R.54a00b4dcb57df364e1f1159849db69e?rik=GftKWC815xLn%2fw&riu=http%3a%2f%2f3.bp.blogspot.com%2f-lV0F1RpR0FE%2fUe2cYZdH-5I%2fAAAAAAAABE0%2fH5DkPUIQ8rA%2fs640%2fSsj3_goku_transformed_animation_by_moxie2d-d58qkxf.gif&ehk=gmS18ekqdiyHoPqzYY7QxW30tRSwAfl%2bEIvBHskBfjY%3d&risl=1&pid=ImgRaw&r=0" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 03 😁✌️
+Esse é o Projeto 06 😁✌️
 
-Criei um relatório de vendas com base nas devoluções da loja 😎📈
+Criei um relatório de projetos 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📅 Mês com mais devoluções <br>
-📅 Devolução mensal <br>
-📅 Devolução trimestral <br>
-📥 Quantidade total de produtos devolvidos <br>
-📦 Produto mais devolvido <br>
-📈 Marca mais devolvida <br>
-📊 Devolução por categoria <br>
+💡 Oportunidades <br>
+🤝 Projetos Fechados <br>
+👨‍💻 Total de Leads <br>
+🫰 Total orçado <br>
+💸 Total pago <br>
+💵 Total de desconto <br>
+📊 Total de projetos por trimestre <br>
+📊 Total pago e orçado por ano <br>
+📊 Oportunidades por status <br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiZjdhMDZlYmUtMzRmYi00OWFmLWFkZDgtNjhmNzczYzBlYjk1IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection2b9c40d70e29e92d3108
+https://app.powerbi.com/view?r=eyJrIjoiY2UwZmIzZGMtODMxMS00ZWVlLTllOGQtODc0NDVlNzdkYjM3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection8fe3f1b4b00c1c7c583a
 
 ##
 
