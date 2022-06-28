@@ -23,7 +23,6 @@ Criei um relatório de vendas com base nos produtos da marca Apple 😎🍎📈
 🌐 Visualização online : 
 https://app.powerbi.com/view?r=eyJrIjoiNTUwZjIzYmEtZTQwZi00MzA1LWFmMzgtZjdiMDk3YWI2NTk3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
 
-
 ##
 
 <div style="display: inline_block"><br>
