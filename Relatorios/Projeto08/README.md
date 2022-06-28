@@ -1,25 +1,23 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://4.bp.blogspot.com/-lUJtZOtTKy8/WHTRPUV0qWI/AAAAAAAAYa4/l5RDgDlfjZwzzBGTSat9WcffVuaifOvWQCLcB/s1600/Gifs%2Baniamdos%2BDragon%2BBall%2BSuper%2B7.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://68.media.tumblr.com/b6b9c4a5d57d1dfe4939572a15c450c9/tumblr_nvhvy2qCua1t3lkheo1_500.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 03 😁✌️
+Esse é o Projeto 08 😁✌️
 
-Criei um relatório de vendas com base nas devoluções da loja 😎📈
+Criei um relatório de vendas de uma loja 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📅 Mês com mais devoluções <br>
-📅 Devolução mensal <br>
-📅 Devolução trimestral <br>
-📥 Quantidade total de produtos devolvidos <br>
-📦 Produto mais devolvido <br>
-📈 Marca mais devolvida <br>
-📊 Devolução por categoria <br>
+ 📅 Total de vendas mensais <br>
+ 📦 Quantidade vendida por marca <br>
+ 💸 Quantidade vendida por categoria <br>
+🚹🚺 Percentual de gênero dos clientes <br>
+ 🗺️ Vendas por loja <br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiZjdhMDZlYmUtMzRmYi00OWFmLWFkZDgtNjhmNzczYzBlYjk1IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection2b9c40d70e29e92d3108
+https://app.powerbi.com/view?r=eyJrIjoiYzE1MGM0NjAtYWZmMy00OTIyLThiMTAtZGNiYmM3NmYwYjE3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
 
 ##
 
