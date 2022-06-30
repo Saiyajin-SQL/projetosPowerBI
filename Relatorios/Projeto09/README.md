@@ -14,13 +14,14 @@ Criei um relatório de vendas com base nos produtos da marca Apple 😎🍎📈
 
 💰 Faturamento Total <br>
 📦 Quantidade Total <br>
+🤑 Quantidade de Vendas <br>
 📅 Faturamento Mensal <br>
 📱 Quantidade Vendida de Celulares <br>
 📚 Quantidade por categoria <br>
 💸 Faturamento por loja <br>
 <br><br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiNTUwZjIzYmEtZTQwZi00MzA1LWFmMzgtZjdiMDk3YWI2NTk3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiNTUwZjIzYmEtZTQwZi00MzA1LWFmMzgtZjdiMDk3YWI2NTk3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
 
 ##
 
