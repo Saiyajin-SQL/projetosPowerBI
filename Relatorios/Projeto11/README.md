@@ -1,26 +1,24 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://media1.tenor.com/images/f7dfcf49a57c4685b1ce0aa18a1f2461/tenor.gif?itemid=14184924" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2017/06/vegeta-gif-13.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 09 😁✌️
+Esse é o Projeto 11 😁✌️
 
-Criei um relatório de vendas com base nos produtos da marca Apple 😎🍎📈
-
-⚫ Tema Dark ⚫
+Criei um relatório de atendimento ao cliente 😎📱📈
 
 📄 Conteúdo do relatório 📄
 
-💰 Faturamento Total <br>
-📦 Quantidade Total <br>
-📅 Faturamento Mensal <br>
-📱 Quantidade Vendida de Celulares <br>
-📚 Quantidade por categoria <br>
-💸 Faturamento por loja <br>
-<br><br><br>
+🌎 Fundo animado <br>
+📔 Tooltip <br>
+⏱️ Tempo de atendimento por unidade <br>
+⏱️ Tempo de atendimento por motivo <br>
+📞 Total de atendimentos <br>
+
+<br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiNTUwZjIzYmEtZTQwZi00MzA1LWFmMzgtZjdiMDk3YWI2NTk3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiYTcwOTBlYWMtMzcyMS00NDJmLWFlY2YtYjhjMGZiNmM3ZmI3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
 
 ##
 
