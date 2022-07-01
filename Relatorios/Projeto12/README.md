@@ -6,7 +6,7 @@ Olá Saiyajin 👊💥
 
 Esse é o Projeto 12 😁✌️
 
-Criei um relatório de vendas baseado em metas 😎📈
+Criei um relatório de vendas baseado em metas de faturamento 😎📈
 
 📄 Conteúdo do relatório 📄
 
