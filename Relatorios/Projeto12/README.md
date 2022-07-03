@@ -22,7 +22,7 @@ Criei um relatório de vendas baseado em metas de faturamento 😎📈
 
 <br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiMWVkMDMzYTktYWIzMy00NjFjLWEyYzQtM2Q3YzFmYmUzNjQzIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiMWVkMDMzYTktYWIzMy00NjFjLWEyYzQtM2Q3YzFmYmUzNjQzIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSectionf8799542cc8359684015
 
 ##
 
