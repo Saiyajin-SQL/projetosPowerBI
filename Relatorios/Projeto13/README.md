@@ -1,28 +1,26 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://th.bing.com/th/id/R.a80a09565c27bd89fd9197f9f86e787c?rik=Jc%2buZFDdx%2bov8Q&riu=http%3a%2f%2f1.bp.blogspot.com%2f-C_czuxHGN_8%2fUiSiMbQLrnI%2fAAAAAAAAAOQ%2fe1OVOmkIkug%2fs1600%2ftumblr_m8svkcyf091qk9v2do1_500.gif&ehk=iOiF8Ryv%2fq66s8w4AsqT61CxF0Qn5FsPGDsexn%2filOE%3d&risl=&pid=ImgRaw&r=0" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://i.pinimg.com/originals/16/3d/63/163d63490eb03c04701c7091b62c775b.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 12 😁✌️
+Esse é o Projeto 13 😁✌️
 
-Criei um relatório de vendas baseado em metas de faturamento 😎📈
+Criei um relatório de vendas 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📅 Faturamento do ano anterior<br>
-📅 Faturamento Atual<br>
-📈 Controle de meta de faturamento <br>
-📈 Meta mensal de 30% acima do ano anterior <br>
-🗺️ Faturamento por Loja <br>
-🏆 Loja com maior faturamento <br>
-💸 Faturamento Total <br>
-🛒 Quantidade de pedidos <br>
-📦 Quantidade de produtos <br>
+💵 Faturamento Total<br>
+📅 Faturamento Ano Anterior<br>
+💰 Custo Total<br>
+💸 Lucro Total <br>
+📈 Controle de metas <br>
+📦 Faturamento por produto <br>
+🏆 TOP 3 Clientes com maior faturamento <br>
 
 <br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiMWVkMDMzYTktYWIzMy00NjFjLWEyYzQtM2Q3YzFmYmUzNjQzIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiOGFmZDg4MjItMWVhNi00OTFlLTg4OWUtNDM2YzRhOGQ1ZGFlIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
 
 ##
 
