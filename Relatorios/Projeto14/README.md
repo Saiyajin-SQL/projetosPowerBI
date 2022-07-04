@@ -1,26 +1,25 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://i.pinimg.com/originals/16/3d/63/163d63490eb03c04701c7091b62c775b.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://www.gifs.nl/media/dragon-ball-z-gifs-rMZp6S.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 13 😁✌️
+Esse é o Projeto 14 😁✌️
 
-Criei um relatório de vendas 😎📈
+Criei um relatório de vendas personalizado 😎📈
 
 📄 Conteúdo do relatório 📄
 
-💵 Faturamento Total<br>
-📅 Faturamento Ano Anterior<br>
-💰 Custo Total<br>
-💸 Lucro Total <br>
+📚 Faturamento por categoria<br>
+💰 Produtos mais vendidos<br>
+💸 Faturamento por loja <br>
 📈 Controle de metas <br>
-📦 Faturamento por produto <br>
-🏆 TOP 3 Clientes com maior faturamento <br>
+📈 Controle de Faturamento<br>
+🏆 Produto com maior faturamento <br>
 
 <br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiOGFmZDg4MjItMWVhNi00OTFlLTg4OWUtNDM2YzRhOGQ1ZGFlIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiNjZkNTBjNDgtZDU3Yy00MTdmLWIzZDYtMjBiODYyZDE2ZjNjIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
 
 ##
 
