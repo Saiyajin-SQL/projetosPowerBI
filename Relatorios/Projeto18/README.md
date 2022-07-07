@@ -1,25 +1,24 @@
 # Projetos Power BI
 
-<img width="200" height="200" align="center" style="border-radius:50px;" src="https://www.gifs.nl/media/dragon-ball-z-gifs-rMZp6S.gif" />
+<img width="200" height="200" align="center" style="border-radius:50px;" src="https://giffiles.alphacoders.com/375/37563.gif" />
 
 Olá Saiyajin 👊💥
 
-Esse é o Projeto 14 😁✌️
+Esse é o Projeto 18 😁✌️
 
-Criei um relatório de vendas personalizado 😎📈
+Criei um relatório de RH personalizado 😎📈
 
 📄 Conteúdo do relatório 📄
 
-📚 Faturamento por categoria<br>
-💰 Produtos mais vendidos<br>
-💸 Faturamento por loja <br>
-📈 Controle de metas <br>
-📈 Controle de Faturamento<br>
-🏆 Produto com maior faturamento <br>
+✍️ Total de contratações <br>
+🧑‍💼 Funcionários Ativos <br>
+😢 Demissões <br>
+📈 % Turnover <br>
+📈 Controle de setores <br>
 
 <br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiNjZkNTBjNDgtZDU3Yy00MTdmLWIzZDYtMjBiODYyZDE2ZjNjIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiNjczNGQxNTctYWQzNC00ZmY2LTg1ZDEtYmIyMzRlYTdkOTNkIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
 
 ##
 
