@@ -18,7 +18,7 @@ Criei um relatório de vendas personalizado 😎📈
 
 <br><br>
 🌐 Visualização online : 
-https://app.powerbi.com/view?r=eyJrIjoiNTA5ZmY4YzItNzRmMC00OGZkLWE1NTctZGE4MjE0MDYwNDNmIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiNTA5ZmY4YzItNzRmMC00OGZkLWE1NTctZGE4MjE0MDYwNDNmIiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9&pageName=ReportSection
 
 ##
 
